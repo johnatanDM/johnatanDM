@@ -7,7 +7,7 @@ A little about me:
 - 👯 I’m looking to collaborate on Open-Source Software
 - 📫 How to reach me: johnatan.jcr@gmail.com
 - ⚡ Fun fact: I'm from Fortaleza, Brazil and I know off the top of my head the D. Pedro I's full name
--->
+
 
 ### And That's my activity
 
