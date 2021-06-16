@@ -12,4 +12,4 @@ A little about me:
 
 ### And That's my activity
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=johnatanDM)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=johnatanDM&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
